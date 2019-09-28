@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="smile_textview" type="id" />
+    <item name="fear_textview" type="id" />
+    <item name="disgust_textview" type="id" />
+    <item name="anger_textview" type="id" />
+    <item name="front_back_toggle_button" type="id" />
+    <item name="sdk_start_button" type="id" />
+    <item name="surfaceview_visibility_button" type="id" />
+    <item name="main_layout" type="id" />
+</resources>
